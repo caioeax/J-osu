@@ -2,7 +2,7 @@
 <div align="justify">
 <div align="center">
 
-![J-osu!](https://github.com/caioeax/J-osu/src/main/resources/images/JosuIco.png)
+<img src="https://github.com/user-attachments/assets/6eebecad-d8ee-4b09-92b8-6899425ec16d" class="rounded-circle" alt="J-osu!" style="width: 200px; height: auto;">
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/caioeax/J-osu)
 </div>
